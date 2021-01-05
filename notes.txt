@@ -1,0 +1,27 @@
+From Freddie:
+
+Note: Apart from the Covid-19 Fighter in the UK theme, two more themes are added for you to choose:
+
+1. Time Travelling in Durham
+
+2. Party Time in Durham
+
+Details about the rationale and student responses of such changes are shown in the updated slides of lecture 10. (FL, 4/11/2020)
+
+FAQs:
+
+1. External resources, such as assets in Unity: Yes, you can use them, and they can be marked under the good use of game engine marking criteria. However, you cannot use them to claim they are your own contributions for the other marking criteria due to the plagiarism reason.
+
+2. Regarding 2D or 3D games, the direct related marking criteria are:
+
+- Core development and implementation (with the game scene component) 7.5%
+
+- Good use of game engine (with the choice of game engine component) 3%
+
+Your game design and implementation will be marked based on how you can meet all marking criteria and their corresponding components. So, choosing a 2D or a 3D game will not make any huge difference unless your game choice does not cover some of the marking criteria.
+
+
+
+Party time in Durham:
+you are the leader of a congo/snake and you collect extra people which adds to your following/train
+You get more points for the more people following you, people to collect regenerate
