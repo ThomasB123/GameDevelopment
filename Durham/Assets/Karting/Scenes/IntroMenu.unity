@@ -1216,7 +1216,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1847275004
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1817,6 +1817,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Kart_Display
+      objectReference: {fileID: 0}
+    - target: {fileID: 3474853878770434550, guid: 119b2c3ccac5c4160afc384f0909ee65,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3474853879522815745, guid: 119b2c3ccac5c4160afc384f0909ee65,
         type: 3}
