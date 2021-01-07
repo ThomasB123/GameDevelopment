@@ -8,30 +8,6 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_PixelRect:
-    serializedVersion: 2
-    x: 0
-    y: 25
-    width: 321
-    height: 573
-  m_ShowMode: 0
-  m_Title: 
-  m_RootView: {fileID: 4}
-  m_MinSize: {x: 300, y: 321}
-  m_MaxSize: {x: 600, y: 621}
-  m_Maximized: 0
---- !u!114 &2
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -41,195 +17,14 @@ MonoBehaviour:
     x: -3840
     y: -1207
     width: 3840
-    height: 2065
+    height: 2107
   m_ShowMode: 4
   m_Title: 
-  m_RootView: {fileID: 10}
+  m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 0
---- !u!114 &3
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ShareWindow
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 321
-    height: 573
-  m_MinSize: {x: 300, y: 321}
-  m_MaxSize: {x: 600, y: 621}
-  m_ActualView: {fileID: 16}
-  m_Panes:
-  - {fileID: 16}
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &4
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children:
-  - {fileID: 3}
-  m_Position:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 321
-    height: 573
-  m_MinSize: {x: 300, y: 321}
-  m_MaxSize: {x: 600, y: 621}
-  vertical: 0
-  controlID: 494
---- !u!114 &5
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-    x: 3220
-    y: 0
-    width: 620
-    height: 2015
-  m_MinSize: {x: 301, y: 401}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 17}
-  m_Panes:
-  - {fileID: 17}
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &6
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children:
-  - {fileID: 13}
-  - {fileID: 7}
-  - {fileID: 5}
-  m_Position:
-    serializedVersion: 2
-    x: 0
-    y: 30
-    width: 3840
-    height: 2015
-  m_MinSize: {x: 981, y: 492}
-  m_MaxSize: {x: 18004, y: 14042}
-  vertical: 0
-  controlID: 394
---- !u!114 &7
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-    x: 2649
-    y: 0
-    width: 571
-    height: 2015
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 20}
-  m_Panes:
-  - {fileID: 20}
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &8
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 435
-    height: 1291
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 21}
-  m_Panes:
-  - {fileID: 21}
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &9
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-    x: 0
-    y: 1291
-    width: 2649
-    height: 724
-  m_MinSize: {x: 231, y: 271}
-  m_MaxSize: {x: 10001, y: 10021}
-  m_ActualView: {fileID: 19}
-  m_Panes:
-  - {fileID: 19}
-  - {fileID: 24}
-  m_Selected: 0
-  m_LastSelected: 1
---- !u!114 &10
+--- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -242,18 +37,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
-  - {fileID: 11}
-  - {fileID: 6}
-  - {fileID: 12}
+  - {fileID: 3}
+  - {fileID: 5}
+  - {fileID: 4}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
     width: 3840
-    height: 2065
+    height: 2107
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
---- !u!114 &11
+--- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -274,8 +69,8 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: InitialLayout
---- !u!114 &12
+  m_LastLoadedLayoutName: 
+--- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -291,12 +86,12 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 2045
+    y: 2087
     width: 3840
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
---- !u!114 &13
+--- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -309,19 +104,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
-  - {fileID: 14}
-  - {fileID: 9}
+  - {fileID: 6}
+  - {fileID: 11}
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 0
-    width: 2649
-    height: 2015
-  m_MinSize: {x: 403, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
-  vertical: 1
-  controlID: 395
---- !u!114 &14
+    y: 30
+    width: 3840
+    height: 2057
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+  vertical: 0
+  controlID: 1003
+--- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -330,23 +125,48 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 10}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 3044
+    height: 2057
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
+  vertical: 1
+  controlID: 1004
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 8}
-  - {fileID: 15}
+  - {fileID: 9}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 2649
-    height: 1291
+    width: 3044
+    height: 1320
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 396
---- !u!114 &15
+  controlID: 1005
+--- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -356,25 +176,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
+  m_Name: SceneView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 435
+    x: 0
     y: 0
-    width: 2214
-    height: 1291
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 22}
+    width: 2512
+    height: 1320
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 13}
   m_Panes:
-  - {fileID: 22}
-  - {fileID: 23}
-  - {fileID: 18}
+  - {fileID: 13}
+  - {fileID: 14}
+  - {fileID: 15}
   m_Selected: 0
-  m_LastSelected: 1
---- !u!114 &16
+  m_LastSelected: 2
+--- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -383,23 +203,102 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 810a5b0c369939e45bd85ac3b34dc728, type: 3}
-  m_Name: 
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SceneHierarchyWindow
   m_EditorClassIdentifier: 
-  m_MinSize: {x: 300, y: 300}
-  m_MaxSize: {x: 600, y: 600}
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 2512
+    y: 0
+    width: 532
+    height: 1320
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 16}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ProjectBrowser
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 1320
+    width: 3044
+    height: 737
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  - {fileID: 18}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: InspectorWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 3044
+    y: 0
+    width: 796
+    height: 2057
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 19}
+  m_Panes:
+  - {fileID: 19}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12059, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEditor:UnityEditor.PackageManager.UI:PackageManagerProjectSettings
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Publish
+    m_Text: Failed to load
     m_Image: {fileID: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 25
-    width: 321
-    height: 552
+    y: 0
+    width: 320
+    height: 550
   m_ViewDataDictionary: {fileID: 0}
---- !u!114 &17
+--- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -407,593 +306,206 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ba8f85f9d6bbb46d180610e6061865df, type: 3}
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MinSize: {x: 300, y: 380}
+  m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Tutorials
-    m_Image: {fileID: 0}
+    m_Text: Scene
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000,
+      type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: -620
+    x: -3840
     y: -1177
-    width: 619
-    height: 1994
+    width: 2511
+    height: 1299
   m_ViewDataDictionary: {fileID: 0}
-  m_AllParagraphs:
-  - paragraph:
-      m_Type: 6
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 2800000, guid: 7047302abcab8496488f93b3f766350d, type: 3}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 1
-        m_UnmaskedViews:
-        - m_SelectorType: 1
-          m_ViewType:
-            m_TypeName: 
-          m_EditorWindowType:
-            m_TypeName: Unity.InteractiveTutorials.TutorialWindow, Unity.InteractiveTutorials.Core,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          m_AlternateEditorWindowTypes:
-            m_Items: []
-          m_MaskType: 0
-          m_MaskSizeModifier: 0
-          m_UnmaskedControls: []
-  - paragraph:
-      m_Type: 0
-      m_Summary: Build and Publish
-      m_Description: "Now you\u2019ve finished customizing the microgame and it\u2019s
-        time to share it! In this tutorial, you\u2019ll build this Unity project
-        into a game that your friends and family can play on a dedicated webpage.\n\n<b>Note:</b>
-        Building this Unity project can take some time \u2014 please be patient as
-        you create your microgame."
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 1
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: Select <b>Start</b> to begin.
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 6
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 2800000, guid: 837030d6eaeb92b4aaba503b87f17491, type: 3}
-      m_Video: {fileID: 32900000, guid: 5b7680371f1b34fe49c339038de4258f, type: 3}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 1
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 0
-      m_Summary: Open the WebGL Publisher
-      m_Description: "In this tutorial, you\u2019re going to export your microgame
-        as a WebGL game. Your game will have its own dedicated web page. "
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 1
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: Open the WebGL Publisher window
-      m_InstructionText: From the top menu, select <i>Publish</i> > <i>WebGL Project</i>.
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items:
-        - type:
-            m_TypeName: Unity.InteractiveTutorials.EditorWindowCriterion, Unity.InteractiveTutorials.Core,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          criterion: {fileID: -4710486571970311243, guid: fcca6e4cbcfd27e49bf16a7c3a6eb019,
-            type: 2}
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 6
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 1
-        m_UnmaskedViews:
-        - m_SelectorType: 1
-          m_ViewType:
-            m_TypeName: 
-          m_EditorWindowType:
-            m_TypeName: Unity.Connect.Share.Editor.ShareWindow, Unity.Connect.Share.Editor,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          m_AlternateEditorWindowTypes:
-            m_Items: []
-          m_MaskType: 0
-          m_MaskSizeModifier: 0
-          m_UnmaskedControls: []
-  - paragraph:
-      m_Type: 0
-      m_Summary: Get started
-      m_Description: "Now that you\u2019ve opened the WebGL Publisher window, you
-        can set up Unity Editor to publish projects."
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 1
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: Select <b>Get Started</b> in the window when you're ready
-        to begin.
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items:
-        - type:
-            m_TypeName: Unity.InteractiveTutorials.ArbitraryCriterion, Unity.InteractiveTutorials.Core,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          criterion: {fileID: 1171428662055131150, guid: 97f3ee3958d87894d8f23cc258f28f0e,
-            type: 2}
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 6
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 1
-        m_UnmaskedViews:
-        - m_SelectorType: 1
-          m_ViewType:
-            m_TypeName: 
-          m_EditorWindowType:
-            m_TypeName: Unity.Connect.Share.Editor.ShareWindow, Unity.Connect.Share.Editor,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          m_AlternateEditorWindowTypes:
-            m_Items: []
-          m_MaskType: 0
-          m_MaskSizeModifier: 0
-          m_UnmaskedControls: []
-  - paragraph:
-      m_Type: 0
-      m_Summary: Sign in
-      m_Description: To publish your game, you need to login with your Unity ID.
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 1
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: Select <b>Sign in</b>, and sign in with your Unity ID.
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items:
-        - type:
-            m_TypeName: Unity.InteractiveTutorials.ArbitraryCriterion, Unity.InteractiveTutorials.Core,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          criterion: {fileID: 1171428662055131150, guid: eb4604b43980b3740a07722643b2ecbe,
-            type: 2}
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 6
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 2800000, guid: 7047302abcab8496488f93b3f766350d, type: 3}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 1
-        m_UnmaskedViews:
-        - m_SelectorType: 1
-          m_ViewType:
-            m_TypeName: 
-          m_EditorWindowType:
-            m_TypeName: Unity.Connect.Share.Editor.ShareWindow, Unity.Connect.Share.Editor,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          m_AlternateEditorWindowTypes:
-            m_Items: []
-          m_MaskType: 0
-          m_MaskSizeModifier: 0
-          m_UnmaskedControls: []
-  - paragraph:
-      m_Type: 0
-      m_Summary: Build your game
-      m_Description: "Before you can publish your game, you need to build it. \n\nThis
-        step could take up to 30 minutes.\n"
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 1
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: Select a Build
-      m_InstructionText: 'Select <b>Create New WebGL Build</b> and create a new folder
-        to store your build files. If you want to publish an existing build, select
-        <b>Locate Existing Build</b> instead and locate the build using the file
-        browser.
-
-
-        Click <b>Next</b> when ready.'
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items:
-        - type:
-            m_TypeName: 
-          criterion: {fileID: 0}
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 6
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 2800000, guid: 7047302abcab8496488f93b3f766350d, type: 3}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 1
-        m_UnmaskedViews:
-        - m_SelectorType: 1
-          m_ViewType:
-            m_TypeName: 
-          m_EditorWindowType:
-            m_TypeName: Unity.Connect.Share.Editor.ShareWindow, Unity.Connect.Share.Editor,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          m_AlternateEditorWindowTypes:
-            m_Items: []
-          m_MaskType: 0
-          m_MaskSizeModifier: 0
-          m_UnmaskedControls: []
-  - paragraph:
-      m_Type: 0
-      m_Summary: Publish your game
-      m_Description: Now that your build is ready, you can publish it using the WebGL
-        Publisher!
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 1
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: Select Publish
-      m_InstructionText: 'This will upload your build.
-
-'
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items:
-        - type:
-            m_TypeName: Unity.InteractiveTutorials.ArbitraryCriterion, Unity.InteractiveTutorials.Core,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          criterion: {fileID: -2340161092345423632, guid: 6f964d3cc40f45747aebcf0c57f609ba,
-            type: 2}
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 6
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 2800000, guid: 7047302abcab8496488f93b3f766350d, type: 3}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 1
-        m_UnmaskedViews:
-        - m_SelectorType: 1
-          m_ViewType:
-            m_TypeName: 
-          m_EditorWindowType:
-            m_TypeName: Unity.Connect.Share.Editor.ShareWindow, Unity.Connect.Share.Editor,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          m_AlternateEditorWindowTypes:
-            m_Items: []
-          m_MaskType: 0
-          m_MaskSizeModifier: 0
-          m_UnmaskedControls: []
-  - paragraph:
-      m_Type: 0
-      m_Summary: 'Publish your game: processing'
-      m_Description: Your game build needs to be processed before it goes live. In
-        a few minutes, you'll be able to share it with your friends!
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 1
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: When the processing progress counter is complete, select
-        <b>Next</b> to continue.
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items:
-        - type:
-            m_TypeName: Unity.InteractiveTutorials.ArbitraryCriterion, Unity.InteractiveTutorials.Core,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          criterion: {fileID: -2340161092345423632, guid: 9903de0d10380094eb753dcdac1f5e68,
-            type: 2}
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 6
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 2800000, guid: cf2b88c8b41ea4e42ba6e17726c32b87, type: 3}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews:
-        - m_SelectorType: 1
-          m_ViewType:
-            m_TypeName: 
-          m_EditorWindowType:
-            m_TypeName: Unity.Connect.Share.Editor.ShareWindow, Unity.Connect.Share.Editor,
-              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-          m_AlternateEditorWindowTypes:
-            m_Items: []
-          m_MaskType: 0
-          m_MaskSizeModifier: 0
-          m_UnmaskedControls: []
-  - paragraph:
-      m_Type: 0
-      m_Summary: Share your game
-      m_Description: "You\u2019re almost ready to share! Before you do, add some
-        details for your game directly on the web page: a title, description, and
-        a thumbnail if you want. \n\nIt\u2019s also a good idea to test that everything
-        works as expected one more time.\n\nNow that your game has a home on the
-        web, you can share the link so others can play!\n"
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  - paragraph:
-      m_Type: 1
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: Adjust the remaining details of your game directly on
-        the web page. Add a title, a description and a thumbnail if you want, then
-        test if everything works as expected.
-      m_InstructionText: 'Select <b>Done</b> to complete this tutorial.
-
-'
-      m_TutorialButtonText: 
-      m_Tutorial: {fileID: 0}
-      m_Icons:
-        m_Items: []
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-  m_Readme: {fileID: 11400000, guid: 08f5116c6f71aa548a00fbd1f56fa92e, type: 2}
-  m_MaskingEnabled: 1
-  m_FarthestPageCompleted: 3
-  m_PlayModeChanging: 1
---- !u!114 &18
+  m_ShowContextualTools: 0
+  m_WindowGUID: d69a67902db7f994ca099bec79d22ce1
+  m_Gizmos: 1
+  m_SceneIsLit: 1
+  m_SceneLighting: 1
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: -4.64048, y: 32.57272, z: -28.667538}
+    speed: 2
+    m_Value: {x: -4.64048, y: 32.57272, z: -28.667538}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_ExposureSliderValue: 0
+  m_ExposureSliderMax: 10
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 1
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  m_Grid:
+    xGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 0, y: 0}
+    yGrid:
+      m_Fade:
+        m_Target: 1
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    zGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    m_ShowGrid: 1
+    m_GridAxis: 1
+    m_gridOpacity: 0.5
+  m_Rotation:
+    m_Target: {x: 0.4406749, y: -0.081659764, z: 0.04029538, w: 0.8930398}
+    speed: 2
+    m_Value: {x: -0.44067493, y: 0.081659764, z: -0.04029538, w: -0.8930398}
+  m_Size:
+    m_Target: 15.831079
+    speed: 2
+    m_Value: 15.831079
+  m_Ortho:
+    m_Target: 0
+    speed: 2
+    m_Value: 0
+  m_CameraSettings:
+    m_Speed: 1
+    m_SpeedNormalized: 0.5
+    m_SpeedMin: 0.01
+    m_SpeedMax: 2
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfViewHorizontalOrVertical: 60
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 1
+    m_OcclusionCulling: 0
+  m_LastSceneViewRotation: {x: -0.33247712, y: -0.53360444, z: 0.23982881, w: -0.73973846}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 1
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 83
+    width: 938
+    height: 463
+  m_ViewDataDictionary: {fileID: 0}
+  m_SerializedViewNames: []
+  m_SerializedViewValues: []
+  m_SerializedCustomFieldsNames: []
+  m_SerializedCustomFieldsValues: []
+  m_PlayModeViewName: GameView
+  m_ShowGizmos: 0
+  m_TargetDisplay: 0
+  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+  m_TargetSize: {x: 786, y: 442}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
+  m_MaximizeOnPlay: 0
+  m_UseMipMap: 0
+  m_VSyncEnabled: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -411.5
+    m_HBaseRangeMax: 411.5
+    m_VBaseRangeMin: -231.5
+    m_VBaseRangeMax: 231.5
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 0
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 938
+      height: 463
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 469, y: 231.5}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -469
+      y: -231.5
+      width: 938
+      height: 463
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 938, y: 463}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+  m_XRRenderMode: 0
+  m_RenderTexture: {fileID: 0}
+--- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1014,12 +526,67 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 468
-    y: 181
-    width: 973
-    height: 501
+    x: -3840
+    y: -1177
+    width: 2667
+    height: 1448
   m_ViewDataDictionary: {fileID: 0}
---- !u!114 &19
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: -1328
+    y: -1177
+    width: 530
+    height: 1299
+  m_ViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 2afbffff
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 9}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 46b7a0fefa812c44ca6fda42b4d7b176
+--- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1041,9 +608,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: -3840
-    y: 114
-    width: 2648
-    height: 703
+    y: 143
+    width: 3043
+    height: 716
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -1056,23 +623,23 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 1
+    m_SearchArea: 0
     m_Folders:
-    - Packages
+    - Assets/Karting/Prefabs/TrackPieces
   m_ViewMode: 1
-  m_StartGridSize: 64
+  m_StartGridSize: 96
   m_LastFolders:
-  - Packages
-  m_LastFoldersGridSize: -1
+  - Assets/Karting/Prefabs/TrackPieces
+  m_LastFoldersGridSize: 96
   m_LastProjectPath: /Users/thomasbutterfield/Documents/CS/Year 3/Coursework/21.01.28
     - Game Development/Durham
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 69}
-    m_SelectedIDs: ffffff7f
-    m_LastClickedID: 2147483647
-    m_ExpandedIDs: 00000000885400008a5400008c5400008e54000090540000925400009454000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 5a550000
+    m_LastClickedID: 21850
+    m_ExpandedIDs: 000000002455000026550000285500002a5500002c5500002e55000030550000325500003455000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1100,7 +667,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000885400008a5400008c5400008e54000090540000925400009454000000ca9a3b
+    m_ExpandedIDs: 000000002455000026550000285500002a5500002c5500002e55000030550000325500003455000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1153,310 +720,10 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 64
+    m_GridSize: 96
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 320
---- !u!114 &20
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Inspector
-    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: -1191
-    y: -1177
-    width: 569
-    height: 1994
-  m_ViewDataDictionary: {fileID: 0}
-  m_OpenAddComponentMenu: 0
-  m_ObjectsLockedBeforeSerialization: []
-  m_InstanceIDsLockedBeforeSerialization: 
-  m_LockTracker:
-    m_IsLocked: 0
-  m_PreviewResizer:
-    m_CachedPref: 160
-    m_ControlHash: -371814159
-    m_PrefName: Preview_InspectorPreview
-  m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
---- !u!114 &21
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Hierarchy
-    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: -3840
-    y: -1177
-    width: 434
-    height: 1270
-  m_ViewDataDictionary: {fileID: 0}
-  m_SceneHierarchy:
-    m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: e4dfffff3cfaffff
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
-        m_EditFieldRect:
-          serializedVersion: 2
-          x: 0
-          y: 0
-          width: 0
-          height: 0
-        m_UserData: 0
-        m_IsWaitingForDelay: 0
-        m_IsRenaming: 0
-        m_OriginalEventType: 11
-        m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
-      m_SearchString: 
-    m_ExpandedScenes: []
-    m_CurrenRootInstanceID: 0
-    m_LockTracker:
-      m_IsLocked: 0
-    m_CurrentSortingName: TransformSorting
-  m_WindowGUID: 46b7a0fefa812c44ca6fda42b4d7b176
---- !u!114 &22
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Scene
-    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: -3405
-    y: -1177
-    width: 2212
-    height: 1270
-  m_ViewDataDictionary: {fileID: 0}
-  m_ShowContextualTools: 0
-  m_WindowGUID: d69a67902db7f994ca099bec79d22ce1
-  m_Gizmos: 1
-  m_SceneIsLit: 1
-  m_SceneLighting: 1
-  m_2DMode: 0
-  m_isRotationLocked: 0
-  m_PlayAudio: 0
-  m_AudioPlay: 0
-  m_Position:
-    m_Target: {x: 2.3916187, y: -163.7252, z: 400.79022}
-    speed: 2
-    m_Value: {x: 15.98166, y: 4.643736, z: -10.756748}
-  m_RenderMode: 0
-  m_CameraMode:
-    drawMode: 0
-    name: Shaded
-    section: Shading Mode
-  m_ValidateTrueMetals: 0
-  m_DoValidateTrueMetals: 0
-  m_ExposureSliderValue: 0
-  m_ExposureSliderMax: 10
-  m_SceneViewState:
-    showFog: 1
-    showMaterialUpdate: 1
-    showSkybox: 1
-    showFlares: 1
-    showImageEffects: 1
-    showParticleSystems: 1
-  m_Grid:
-    xGrid:
-      m_Fade:
-        m_Target: 0
-        speed: 2
-        m_Value: 0
-      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
-      m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
-    yGrid:
-      m_Fade:
-        m_Target: 1
-        speed: 2
-        m_Value: 1
-      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
-      m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 1, y: 1}
-    zGrid:
-      m_Fade:
-        m_Target: 0
-        speed: 2
-        m_Value: 0
-      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
-      m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
-    m_ShowGrid: 1
-    m_GridAxis: 1
-    m_gridOpacity: 0.5
-  m_Rotation:
-    m_Target: {x: -0.21519905, y: 0.004974391, z: -0.0010973389, w: -0.97655946}
-    speed: 2
-    m_Value: {x: -0.12725256, y: -0.0014878073, z: 0.00019084777, w: -0.9918704}
-  m_Size:
-    m_Target: 203.9804
-    speed: 2
-    m_Value: 7.302249
-  m_Ortho:
-    m_Target: 0
-    speed: 2
-    m_Value: 0
-  m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
-    m_SpeedMin: 0.01
-    m_SpeedMax: 2
-    m_EasingEnabled: 1
-    m_EasingDuration: 0.4
-    m_AccelerationEnabled: 1
-    m_FieldOfViewHorizontalOrVertical: 60
-    m_NearClip: 0.03
-    m_FarClip: 10000
-    m_DynamicClip: 1
-    m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
-  m_LastSceneViewOrtho: 0
-  m_ReplacementShader: {fileID: 0}
-  m_ReplacementString: 
-  m_SceneVisActive: 1
-  m_LastLockedObject: {fileID: 0}
-  m_ViewIsLockedToObject: 0
---- !u!114 &23
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Game
-    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 529.3334
-    y: 72.66667
-    width: 1230
-    height: 820
-  m_ViewDataDictionary: {fileID: 0}
-  m_SerializedViewNames: []
-  m_SerializedViewValues: []
-  m_SerializedCustomFieldsNames: []
-  m_SerializedCustomFieldsValues: []
-  m_PlayModeViewName: GameView
-  m_ShowGizmos: 0
-  m_TargetDisplay: 0
-  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 1230, y: 692}
-  m_TextureFilterMode: 0
-  m_TextureHideFlags: 61
-  m_RenderIMGUI: 0
-  m_MaximizeOnPlay: 0
-  m_UseMipMap: 0
-  m_VSyncEnabled: 0
-  m_Gizmos: 0
-  m_Stats: 0
-  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
-  m_ZoomArea:
-    m_HRangeLocked: 0
-    m_VRangeLocked: 0
-    hZoomLockedByDefault: 0
-    vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -615
-    m_HBaseRangeMax: 615
-    m_VBaseRangeMin: -346
-    m_VBaseRangeMax: 346
-    m_HAllowExceedBaseRangeMin: 1
-    m_HAllowExceedBaseRangeMax: 1
-    m_VAllowExceedBaseRangeMin: 1
-    m_VAllowExceedBaseRangeMax: 1
-    m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
-    m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
-    m_EnableSliderZoomHorizontal: 0
-    m_EnableSliderZoomVertical: 0
-    m_UniformScale: 1
-    m_UpDirection: 1
-    m_DrawArea:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1230
-      height: 820
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 615, y: 410}
-    m_MarginLeft: 0
-    m_MarginRight: 0
-    m_MarginTop: 0
-    m_MarginBottom: 0
-    m_LastShownAreaInsideMargins:
-      serializedVersion: 2
-      x: -615
-      y: -410
-      width: 1230
-      height: 820
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1230, y: 820}
-  m_ClearInEditMode: 1
-  m_NoCameraWarning: 1
-  m_LowResolutionForAspectRatios: 01000000000100000100
-  m_XRRenderMode: 0
-  m_RenderTexture: {fileID: 0}
---- !u!114 &24
+--- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1482,3 +749,41 @@ MonoBehaviour:
     width: 1977
     height: 440
   m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: -796
+    y: -1177
+    width: 795
+    height: 2036
+  m_ViewDataDictionary: {fileID: 0}
+  m_OpenAddComponentMenu: 0
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: 160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
