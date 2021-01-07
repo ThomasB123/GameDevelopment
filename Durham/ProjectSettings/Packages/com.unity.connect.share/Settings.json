@@ -11,6 +11,11 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"/Users/thomasbutterfield/Documents/CS/Year 3/Coursework/21.01.28 - Game Development/Durham/WebGL Build 2;/Users/thomasbutterfield/Documents/CS/Year 3/Coursework/21.01.28 - Game Development/Durham/WebGL Build;;;;;;;;\"}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "thumbnailPath",
                 "value": "{\"m_Value\":\"\"}"
             }
         ]
